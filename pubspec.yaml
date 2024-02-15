@@ -26,6 +26,7 @@ dependencies:
   yandex_mapkit: ^3.4.0
   location: ^5.0.3
   cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.4
 
 dev_dependencies:
   flutter_test:
